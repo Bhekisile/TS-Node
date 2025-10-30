@@ -48,7 +48,7 @@ TS-Node is a back-end for Todo project demonstrating the use of TypeScript with 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://)
+- [Live Demo Link](https://ts-node-kk1t.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,7 +68,7 @@ npm install
 
 Clone or fork this repository to your desired folder:
 
--git clone https://github.com/Bhekisile/.git
+-git clone https://github.com/Bhekisile/TS-Node/.git
 
 ### Usage
 
